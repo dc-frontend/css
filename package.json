@@ -1,0 +1,11 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "CSS Variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Craig <davidcraig1986@gmail.com>",
+  "license": "ISC"
+}
