@@ -1,5 +1,5 @@
 {
-  "name": "css",
+  "name": "@davidcraig/css",
   "version": "1.0.0",
   "description": "CSS Variables",
   "main": "index.js",
