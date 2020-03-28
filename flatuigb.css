@@ -1,0 +1,26 @@
+/*
+Flat UI Colours (GB Pallette)
+https://flatuicolors.com/palette/gb
+*/
+:root {
+  --flat-ui-protoss-pylon: #00a8ff;
+  --flat-ui-vanadyl-blue: #0097e6;
+  --flat-ui-periwinkle: #9c88ff;
+  --flat-ui-matt-purple: #8c7ae6;
+  --flat-ui-rise-n-shine: #fbc531;
+  --flat-ui-nanohanacha-gold: #e1b12c;
+  --flat-ui-download-progress: #4cd137;
+  --flat-ui-skirret-green: #44bd32;
+  --flat-ui-seabrook: #487eb0;
+  --flat-ui-naval: #40739e;
+  --flat-ui-nasturcian-flower: #e84118;
+  --flat-ui-harley-davidson-orange: #c23616;
+  --flat-ui-lynx-white: #f5f6fa;
+  --flat-ui-hint-of-pensive: #dcdde1;
+  --flat-ui-blueberry-soda: #7f8fa6;
+  --flat-ui-chain-gang-grey: #718093;
+  --flat-ui-mazarine-blue: #273c75;
+  --flat-ui-pico-void: #192a56;
+  --flat-ui-blue-nights: #353b48;
+  --flat-ui-electromagnetic: #2f3640;
+}
